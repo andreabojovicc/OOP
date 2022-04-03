@@ -7,6 +7,7 @@ namespace OOP
         static void Main(string[] args)
         {
             Console.WriteLine("OOP projekat");
+            Console.WriteLine("Butulija je najjaci team leader.");
         }
     }
 }
