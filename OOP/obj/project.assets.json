@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jule\\Desktop\\OOP\\OOP\\OOP.csproj",
+      "projectUniqueName": "D:\\PROGRAMIRANJE\\OOP\\GIT\\OOP\\OOP\\OOP.csproj",
       "projectName": "OOP",
-      "projectPath": "C:\\Users\\Jule\\Desktop\\OOP\\OOP\\OOP.csproj",
+      "projectPath": "D:\\PROGRAMIRANJE\\OOP\\GIT\\OOP\\OOP\\OOP.csproj",
       "packagesPath": "C:\\Users\\Jule\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jule\\Desktop\\OOP\\OOP\\obj\\",
+      "outputPath": "D:\\PROGRAMIRANJE\\OOP\\GIT\\OOP\\OOP\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jule\\AppData\\Roaming\\NuGet\\NuGet.Config",

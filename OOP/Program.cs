@@ -8,6 +8,7 @@ namespace OOP
         {
             Console.WriteLine("OOP projekat");
             Console.WriteLine("Butulija je najjaci team leader.");
+            Console.ReadKey();
         }
     }
 }
