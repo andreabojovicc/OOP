@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\acabu\\source\\repos\\OOP\\OOP\\OOP.csproj": {}
+    "C:\\Users\\Jule\\Desktop\\OOP\\OOP\\OOP.csproj": {}
   },
   "projects": {
-    "C:\\Users\\acabu\\source\\repos\\OOP\\OOP\\OOP.csproj": {
+    "C:\\Users\\Jule\\Desktop\\OOP\\OOP\\OOP.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\acabu\\source\\repos\\OOP\\OOP\\OOP.csproj",
+        "projectUniqueName": "C:\\Users\\Jule\\Desktop\\OOP\\OOP\\OOP.csproj",
         "projectName": "OOP",
-        "projectPath": "C:\\Users\\acabu\\source\\repos\\OOP\\OOP\\OOP.csproj",
-        "packagesPath": "C:\\Users\\acabu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\acabu\\source\\repos\\OOP\\OOP\\obj\\",
+        "projectPath": "C:\\Users\\Jule\\Desktop\\OOP\\OOP\\OOP.csproj",
+        "packagesPath": "C:\\Users\\Jule\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jule\\Desktop\\OOP\\OOP\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\acabu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Jule\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -52,7 +54,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.404\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
